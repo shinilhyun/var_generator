@@ -1,4 +1,4 @@
-package com.shin.var_generator;
+package com.shin.vg;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.shin.var_generator;
+package com.shin.vg;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
